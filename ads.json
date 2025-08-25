@@ -10,7 +10,7 @@
             "end_date": "1/1/1499"
         },
         {
-            "is_hided": false,
+            "is_hided": true,
             "image": "crypto",
             "link": "https://wallex.ir/signup?ref=dk8adth",
             "business_name": "wallex_crypto",
