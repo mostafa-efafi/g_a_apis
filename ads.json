@@ -1,5 +1,5 @@
 {
-    "is_activated": true,
+    "is_activated": false,
     "items": [
         {
             "is_hided": false,
@@ -10,7 +10,7 @@
             "end_date": "1/1/1499"
         },
         {
-            "is_hided": true,
+            "is_hided": false,
             "image": "crypto",
             "link": "https://wallex.ir/signup?ref=dk8adth",
             "business_name": "wallex_crypto",
