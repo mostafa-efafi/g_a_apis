@@ -1,17 +1,21 @@
 {
-    "isActivated" : true,
-    "items":[
+    "is_activated": true,
+    "items": [
         {
-            "isHided":false,
-            "image":"https://raw.githubusercontent.com/mostafa-efafi/g_a_apis/refs/heads/main/assets/images/auxt_ad.jpg",
-            "link":"https://wallex.ir/signup?ref=dk8adth",
-            "businessName":"wallex_xaut"
+            "is_hided": false,
+            "image": "https://raw.githubusercontent.com/mostafa-efafi/g_a_apis/refs/heads/main/assets/images/auxt_ad.jpg",
+            "link": "https://wallex.ir/signup?ref=dk8adth",
+            "business_name": "wallex_xaut",
+            "start_date": "2/6/1404",
+            "end_date": "1/1/1499"
         },
         {
-            "isHided":false,
-            "image":"crypto",
-            "link":"https://wallex.ir/signup?ref=dk8adth",
-            "businessName":"wallex_crypto"
+            "is_hided": false,
+            "image": "crypto",
+            "link": "https://wallex.ir/signup?ref=dk8adth",
+            "business_name": "wallex_crypto",
+            "start_date": "2/6/1404",
+            "end_date": "1/1/1499"
         }
     ]
 }
