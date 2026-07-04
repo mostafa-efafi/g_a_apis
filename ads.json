@@ -1,5 +1,6 @@
 {
-    "is_activated": true,
+    "is_ads_activated": false,
+    "is_order_menu_activated": false,
     "ad_page_content": "<!DOCTYPE html> <html> <body lang=\"fa-IR\" link=\"#000080\" vlink=\"#800000\" dir=\"rtl\"><p style=\"margin-bottom: 0cm; line-height: 100%\"> آگهی خود را در دستیار طلا به نمایش بگذارید و کسب‌وکارتان را به اوج برسانید<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">! </span></font>با درج آگهی در اپلیکیشن دستیار طلا، محصول یا خدمات خود را به بهترین شکل به مخاطبان معرفی کنید<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">!</span></font></p> <p style=\"margin-bottom: 0cm; line-height: 100%\">بهترین امکانات تبلیغاتی با نرخ‌های به‌صرفه در اختیارتان قرار میگیرد<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">:</span></font></p> <ul> <li><p style=\"margin-bottom: 0cm; line-height: 100%\">تصاویر بزرگ و باکیفیت<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">: </span></font>آگهی شما در ابعاد <font face=\"Liberation Serif, serif\"><span lang=\"en-US\">800×450 </span></font>نمایش داده می‌شود تا توجه هر بیننده‌ای را جلب کند<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">!</span></font></p></li> <li><p style=\"margin-bottom: 0cm; line-height: 100%\">نرخ‌های به‌صرفه<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">: </span></font>تبلیغات موثر با هزینه‌ای اقتصادی<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">!</span></font></p></li> <li><p style=\"margin-bottom: 0cm; line-height: 100%\">نمایش ۲۴ ساعته<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">: </span></font>آگهی شما شبانه‌روز در معرض دید مخاطبان است، بدون وقفه<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">!</span></font></p></li> <li><p style=\"margin-bottom: 0cm; line-height: 100%\">پشتیبانی از اندروید و <font face=\"Liberation Serif, serif\"><span lang=\"en-US\">iOS: </span></font>آگهی‌تان در هر دو پلتفرم محبوب به نمایش درمی‌آید<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">!</span></font></p></li> </ul> <p style=\"margin-bottom: 0cm; line-height: 100%\">برای ثبت و مشاوره رایگان آگهی با شماره تلفن زیر در ارتباط باشید<font face=\"Liberation Serif, serif\"><span lang=\"en-US\">.</span></font></p> <div style=\"text-align: center;\"> <button onclick=\"window.location.href='tel:+989334958737'\" style=\"background-color: green; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;\">09334958737 📱</button> </div> </body> </html>",
     "items": [
         {
@@ -15,6 +16,14 @@
             "image": "crypto",
             "link": "https://wallex.ir/signup?ref=dk8adth",
             "business_name": "wallex_crypto",
+            "start_date": "2/6/1404",
+            "end_date": "1/1/1499"
+        },
+        {
+            "is_hided": false,
+            "image": "https://raw.githubusercontent.com/mostafa-efafi/g_a_apis/refs/heads/main/assets/images/fuel_ad.jpg",
+            "link": "https://wallex.ir/signup?ref=dk8adth",
+            "business_name": "wallex_fuel",
             "start_date": "2/6/1404",
             "end_date": "1/1/1499"
         },
